@@ -1,3 +1,4 @@
+import type { GiscusProps } from "@giscus/react";
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
@@ -153,3 +154,17 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
 ];
+
+
+export const GISCUS: GiscusProps = {
+  repo: "KagemaNjoroge/njoroge.me",
+  repoId: "R_kgDONU-k5g",
+  category: "Announcements",
+  categoryId: "DIC_kwDONU-k5s4CknLQ",
+  mapping: "pathname",
+  reactionsEnabled: "1",
+  emitMetadata: "0",
+  inputPosition: "top",
+  lang: "en",
+  loading: "lazy",
+};
