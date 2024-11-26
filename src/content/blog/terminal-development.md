@@ -5,6 +5,7 @@ pubDatetime: 2022-06-09T03:42:51Z
 slug: how-do-i-develop-my-terminal-portfolio-website-with-react
 featured: false
 draft: false
+ogImage: ../../assets/images/AstroPaper-v4.png
 tags:
   - JavaScript
   - ReactJS
